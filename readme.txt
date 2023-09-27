@@ -1,7 +1,5 @@
 Database Name: onlinefoodphp
 
-Developed by Rosemond Osei
-
 This website was developed using HTML, CSS, PHP and JavaScript.
 The pupose of this website is to agive users a seamless experience, order thier favourite foods from their preferred 
 resturants. Track thier orders and a seamless accessibility on all devices.
